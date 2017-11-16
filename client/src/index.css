@@ -1,0 +1,10 @@
+.app-wrapper{
+    height: 100vh;
+}
+
+.navbar-wrapper{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
